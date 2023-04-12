@@ -9,3 +9,8 @@
 .header img {
   height: 2rem;
 }
+
+.header strong {
+  margin-left: 1rem;
+  font-size: 1.1rem;
+}

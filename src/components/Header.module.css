@@ -7,10 +7,12 @@
 }
 
 .header img {
+  cursor: pointer;
   height: 2rem;
 }
 
 .header strong {
+  cursor: pointer;
   margin-left: 1rem;
   font-size: 1.1rem;
 }
